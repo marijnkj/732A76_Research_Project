@@ -1,5 +1,11 @@
-small.csv
-medium.csv
-large.csv
+train_small.csv
+test_small.csv
+train_medium.csv
+test_medium.csv
+train_large.csv
+test_large.csv
 HIGGS.csv
 research_project
+large.parquet
+medium.parquet
+small.parquet

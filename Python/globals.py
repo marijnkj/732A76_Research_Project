@@ -3,9 +3,12 @@ global medium_path
 global large_path
 global col_names
 
-small_path = "732A76_Research_Project/Data/small.csv"
-medium_path = "732A76_Research_Project/Data/medium.csv"
-large_path = "732A76_Research_Project/Data/large.csv"
+train_small_path = "732A76_Research_Project/Data/train_small.csv"
+test_small_path = "732A76_Research_Project/Data/test_small.csv"
+train_medium_path = "732A76_Research_Project/Data/train_medium.csv"
+test_medium_path = "732A76_Research_Project/Data/test_medium.csv"
+train_large_path = "732A76_Research_Project/Data/train_large.csv"
+test_large_path = "732A76_Research_Project/Data/test_large.csv"
 col_names = ["label", "lepton_pT", "lepton_eta", "lepton_phi", 
              "missing_energy_mag", "missing_energy_phi", 
              "jet_1_pt", "jet_1_eta", "jet_1_phi", "jet_1_b_tag",
